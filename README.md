@@ -12,4 +12,4 @@
 
 or:
 
-[inequality of income and wealth (.html format)](https://dblanding.github.io/misc/inequality/income_wealth_trends.html)
+[inequality of income and wealth (.html format)](docs/inequality/income_wealth_trends.html)
